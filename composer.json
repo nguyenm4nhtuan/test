@@ -1,0 +1,14 @@
+{
+    "name": "tuannm/common1",
+    "description": "description",
+    "type": "project",
+    "license": [
+        "proprietary"
+    ],
+    "authors": [
+        {
+            "name": "tuannm"
+        }
+    ],
+    "require": {}
+}
