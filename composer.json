@@ -1,7 +1,7 @@
 {
     "name": "tuannm/common1",
     "description": "description",
-    "type": "project",
+    "type": "library",
     "license": [
         "proprietary"
     ],
